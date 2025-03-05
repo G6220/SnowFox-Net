@@ -1,0 +1,8 @@
+{
+  "DBConfig": {
+    "ConnectionString": "Data Source=127.0.0.1;Port=3306;User ID=root;Password=123456; Initial Catalog=Admin;Charset=utf8mb4; SslMode=none;Min pool size=16",
+    "DBConnectionStrings": {
+      "Common": "Data Source=127.0.0.1;Port=3306;User ID=root;Password=123456; Initial Catalog=Common;Charset=utf8mb4; SslMode=none;Min pool size=16"
+    }
+  }
+}

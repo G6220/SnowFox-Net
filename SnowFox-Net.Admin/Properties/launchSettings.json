@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SnowFox-Net.Admin": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:9000"
+    }
+  }
+}
